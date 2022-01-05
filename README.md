@@ -51,3 +51,9 @@ insert into new_table(title,price,description,imageUrl) values('buku baru',35000
 ### Intro
 
 Memasukkan data ke database
+
+## 146. Fetching a Single Product with the "where" Condition
+
+### Intro
+
+Mengambil data dengan where

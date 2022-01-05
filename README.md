@@ -27,3 +27,9 @@ CREATE TABLE `new_table` (
 	PRIMARY KEY (`id`)
 );
 ```
+
+## 142. Retrieving Data
+
+### Intro
+
+Mengambil data

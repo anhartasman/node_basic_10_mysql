@@ -45,3 +45,9 @@ Menampilkan produk
 ```
 insert into new_table(title,price,description,imageUrl) values('buku baru',35000,'buku bagus','https://i.picsum.photos/id/2/300/300.jpg?hmac=18v9hYebAqcHuhqDo_PgGIHxZ5Ay-8Di7TqUUS5ZvXY');
 ```
+
+## 145. Inserting Data Into the Database
+
+### Intro
+
+Memasukkan data ke database
